@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-google-drive",
+  "version": "1.0.0",
+  "description": "This is a sample integration for google drive using node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bkiprono/nodejs-google-drive.git"
+  },
+  "keywords": [
+    "nodejs",
+    "google-drive",
+    "apis",
+    "google-drive-api"
+  ],
+  "author": "Eng. Brian Koech",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bkiprono/nodejs-google-drive/issues"
+  },
+  "homepage": "https://github.com/bkiprono/nodejs-google-drive#readme"
+}
